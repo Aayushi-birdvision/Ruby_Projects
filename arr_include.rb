@@ -4,6 +4,6 @@ class Array
 
     puts fruits
   end
-  obj = Array.new
-  obj.includes
 end
+obj = Array.new
+obj.includes
