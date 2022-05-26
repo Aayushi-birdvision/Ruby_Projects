@@ -5,7 +5,6 @@ class Count
 
     string = 'how to count the number of words in a string'
     puts string.length
-
     string_a = 'how to count the number of words in a string'
     puts string_a.split
     puts string_a.split.length
