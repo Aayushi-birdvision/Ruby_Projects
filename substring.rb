@@ -11,6 +11,6 @@ class Search
       puts 'substring Not Found'
     end
   end
-  obj = Search.new
-  obj.string
 end
+obj = Search.new
+obj.string
