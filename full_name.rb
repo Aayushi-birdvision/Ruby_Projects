@@ -9,6 +9,6 @@ class Full_name
     end
     puts add_name  
   end
-  obj = Full_name.new
-  obj.result
 end
+obj = Full_name.new
+obj.result
