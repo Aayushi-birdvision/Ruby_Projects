@@ -9,6 +9,6 @@ class Table
       i+=1
     end
   end
-  obj=Table.new
-  obj.multiply
 end
+obj=Table.new
+obj.multiply
