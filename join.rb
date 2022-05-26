@@ -3,6 +3,6 @@ class String
     array = [ "waters", "too", "polluted", "with", "germs"].join(" ")
     p array
   end
-  obj = String.new
-  obj.words
 end
+obj = String.new
+obj.words
