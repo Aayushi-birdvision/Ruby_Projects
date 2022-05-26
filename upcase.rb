@@ -8,7 +8,6 @@ class Upper
       p str
     end
   end
-
-  obj = Upper.new
-  obj.word
 end
+obj = Upper.new
+obj.word
