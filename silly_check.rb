@@ -11,6 +11,6 @@ class Number
       puts('The number is greater than or equal to 5')
     end
   end
-  obj = Number.new
-  obj.silly_check
 end
+obj = Number.new
+obj.silly_check

@@ -4,7 +4,13 @@ class Array
 
     puts fruits
   end
+<<<<<<< HEAD
   
 end
 obj = Array.new
 obj.includes
+=======
+end
+obj = Array.new
+obj.includes
+>>>>>>> 51b5e345bdb4eedc3a8772d0466f2e3ffc65f701

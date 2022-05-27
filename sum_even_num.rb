@@ -15,6 +15,6 @@ class Even
     end
     puts "The sum is #{sum}"
   end
-  obj = Even.new
-  obj.num_even
 end
+obj = Even.new
+ obj.num_even

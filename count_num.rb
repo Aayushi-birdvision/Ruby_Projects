@@ -13,6 +13,6 @@ class Digit
 
     puts "#{num} has #{count} digits"
   end
-  obj = Digit.new
-  obj.count_num
 end
+obj = Digit.new
+obj.count_num

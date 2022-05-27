@@ -4,6 +4,6 @@ class Word
     puts str.upcase
     puts str.downcase
   end
-  obj=Word.new
-  obj.string
 end
+obj=Word.new
+obj.string

@@ -9,6 +9,6 @@ class Product
     multiply = num1 * num2
     p multiply
   end
-  obj = Product.new
-  obj.method
 end
+obj = Product.new
+obj.method

@@ -8,6 +8,6 @@ class Array_str
     end
     puts joinarr
   end
-  obj = Array_str.new
-  obj.changed
 end
+obj = Array_str.new
+obj.changed

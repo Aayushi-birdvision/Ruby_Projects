@@ -3,6 +3,6 @@ class Array
     arr =["Twitter", "Facebook", "Whatsapp", "Hike", "Instagram"]
     p arr
   end
-  obj = Array.new
-  obj.print_array
 end
+obj = Array.new
+obj.print_array

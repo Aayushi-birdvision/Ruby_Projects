@@ -4,6 +4,6 @@ class Inc
   end
 
   a = 10
-  obj = Inc.new
-  obj.increment_variable(a)
 end
+obj = Inc.new
+obj.increment_variable(a)

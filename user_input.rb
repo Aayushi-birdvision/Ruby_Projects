@@ -11,6 +11,6 @@ class Greator
       puts "#{user} is above 100."
     end
   end
-  obj = Greator.new
-  obj.number
 end
+obj = Greator.new
+obj.number

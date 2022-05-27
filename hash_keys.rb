@@ -4,6 +4,6 @@ class Hash
     p a['x']
     p a['f']
   end
-  obj = Hash.new
-  obj.Key_hash
 end
+obj = Hash.new
+obj.Key_hash

@@ -5,6 +5,6 @@ class Reverse
     p str.reverse
     puts str_1.reverse
   end
-  obj = Reverse.new
-  obj.rev_str
 end
+obj = Reverse.new
+obj.rev_str
